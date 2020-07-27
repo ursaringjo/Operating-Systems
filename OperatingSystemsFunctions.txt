@@ -3,6 +3,8 @@ This will prevent non authorized users from gaining access to said data.
 
 File management is another useful function. The process of the file management function is compiling information and data into their designated files and locations. This allows the user to easily store and find data and documents within their device.
 
+Another function is job accounting. With job accounting you are able to keep track of what is being done on each users account on a device. With this function you can switch back and forth while keeping your account at the same point you are at with your work.
+
 
 
 
