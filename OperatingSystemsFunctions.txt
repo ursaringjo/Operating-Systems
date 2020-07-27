@@ -1,6 +1,10 @@
 A major function in operating systems is security. With the security function it uses password protection to safely secure the users data and information. 
 This will prevent non authorized users from gaining access to said data.
 
+File management is another useful function. The process of the file management function is compiling information and data into their designated files and locations. This allows the user to easily store and find data and documents within their device.
+
+
+
 
 
 
