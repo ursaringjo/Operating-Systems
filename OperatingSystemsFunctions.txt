@@ -1,0 +1,6 @@
+A major function in operating systems is security. With the security function it uses password protection to safely secure the users data and information. 
+This will prevent non authorized users from gaining access to said data.
+
+
+
+
